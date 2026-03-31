@@ -96,27 +96,3 @@ Naviotech-individual-project/
 **Tanay Naik**
 
 ```
-
----
-
-# ✅ How to add it on GitHub
-
-1. Open your repo  
-2. Click **README.md**  
-3. Click **Edit (✏️ icon)**  
-4. Paste this  
-5. Click **Commit changes**
-
----
-
-# 💡 Tip
-After pasting:
-- Scroll and check formatting  
-- Make sure code blocks look clean  
-
----
-
-If you want, I can:
-- :contentReference[oaicite:0]{index=0}
-- or :contentReference[oaicite:1]{index=1}
-```
