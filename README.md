@@ -94,5 +94,3 @@ Naviotech-individual-project/
 ## 👨‍💻 Author
 
 **Tanay Naik**
-
-```
